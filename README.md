@@ -5,6 +5,10 @@ This is the sample code for the [GitHub Partner Workshop on Snyk Academy](https:
 It uses Snyk's [Goof](https://snyk.io/test/github/snyk/goof) vulnerable demo app. More on Goof below: 
 
 # Goof - Snyk's vulnerable demo app
+[![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
+
+
+# Goof - Snyk's vulnerable demo app
 A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/).
 
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
